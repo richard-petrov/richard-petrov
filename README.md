@@ -14,7 +14,7 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Go, Rust**
+- 🌱 I’m currently learning **Go and Rust**
 <!-- - 📝 I regularly write articles on [Habr](medium-link) -->
 <!-- - 📄 Know about my experiences [CV](cv-link) -->
 - 📫 Reach me by [email](mailto:rihard.petroff@gmail.com)
